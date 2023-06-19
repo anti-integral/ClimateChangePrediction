@@ -36,13 +36,23 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-7. Install all dependencies with command:
+7. Install pip-compile tool
+```
+pip install pip-tools
+```
+
+8. Create dependencies file
+```
+pip-compile --output-file=requirements.txt requirements.in
+```
+
+9. Install all dependencies with command:
 ```
 pip3 install -r requirements.txt
 ```
 
-8. In neotebook choose venv you created before as kernal
+10. In neotebook choose venv you created before as kernal
 
-9. WHen you run any cell first time IDE will ask you if you want to install Jupyter - agree and proceed
+11. WHen you run any cell first time IDE will ask you if you want to install Jupyter - agree and proceed
 
-10. After Jupyter installation you can start work with notebook
+12. After Jupyter installation you can start work with notebook

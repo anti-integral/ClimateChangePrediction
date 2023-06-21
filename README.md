@@ -56,3 +56,7 @@ pip3 install -r requirements.txt
 11. WHen you run any cell first time IDE will ask you if you want to install Jupyter - agree and proceed
 
 12. After Jupyter installation you can start work with notebook
+
+
+### Research
+Lateset research ML you can find in file training_models.ipynb

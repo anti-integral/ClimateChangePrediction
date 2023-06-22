@@ -7,12 +7,12 @@ To run this project on your laptop please follow the instructions provided below
 
 2. Clone project to you PC.
 ```
-git clone https://github.com/osanan25/Flask
+https://github.com/osanan25/ClimateChangePrediction
 ```
 
 3. Open project folder
 ```
-cd Flask
+cd ClimateChangePrediction
 ```
 
 4. Open terminal in the project directory and run command

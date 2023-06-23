@@ -3,5 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scikeras
 tensorflow
 flask
+statsmodels
